@@ -10,7 +10,8 @@ public class WhileLoops
         while(num < 10)
         {
             System.out.println("Hello " + num);
-            num = num + 1 ;
+            num += 1 ;
+
         }
     }
 }
