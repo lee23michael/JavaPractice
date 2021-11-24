@@ -88,7 +88,7 @@ public class test
             }
             catch (MonthOf28Exception e)
             {
-                System.out.println("Please enter a valid Day (1- 28)");
+                System.out.println("Please enter a valid Day (1-28)");
                 input2 = true;
             }
         }
